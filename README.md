@@ -18,6 +18,6 @@ Welcome to my GitHub profile!
 
 ## Let's Connect!
 
-- Here is my LinkedIn https://www.linkedin.com/in/valentinabass/ profile
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() https://www.linkedin.com/in/valentinabass/ profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
