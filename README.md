@@ -14,10 +14,19 @@ Welcome to my GitHub profile!
 ## Technologies and Tools
 
 - Proficient in: Python, SQL, PHP, HTML, CSS, JavaScript, Azure DevOps, Postman, API
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 - Skills: Committed to project deadlines and to continuing to learn and improve my skills
 
 ## Let's Connect!
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() https://www.linkedin.com/in/valentinabass/ profile
+- Here is my LinkedIn https://www.linkedin.com/in/valentinabass/ profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
