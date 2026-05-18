@@ -22,6 +22,7 @@ Welcome to my GitHub profile!
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"  title="AzureDevOps" alt="ADO" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Py" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 - Skills: Committed to project deadlines and to continuing to learn and improve my skills
